@@ -22,7 +22,7 @@
 ###
 
 <div align="center">
-    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/naathyyy/naathyyy/output/github-contribution-grid-snake.svg">
 </div>
 
 ###
