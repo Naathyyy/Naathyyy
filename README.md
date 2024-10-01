@@ -2,10 +2,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naathyyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naathyyy&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<div style="text-align: center;" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" alt="GitHub stats">
 
 ###
 
@@ -16,15 +14,16 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/nathy/nathy/output/snake.svg" alt="Snake animation" />
+  <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naathyyy/Naathyyy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naathyyy/Naathyyy/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Naathyyy/Naathyyy/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 
 <div align="center">
-    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/naathyyy/naathyyy/output/github-contribution-grid-snake.svg">
+  <img src="https://profile-counter.glitch.me/Naathyyy/count.svg?"  />
 </div>
-
-###
 
 ###
